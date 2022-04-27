@@ -12,14 +12,9 @@ img{
     max-height: 90px;
 }
 
-table{
+table.menu{
     width: 100%;
     background-color: rgb(95, 219, 95);
-}
-
-td{
-    text-align: center;
-    width: 25%;
 }
 
 a{
